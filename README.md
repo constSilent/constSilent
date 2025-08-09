@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @constSilent
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JS & Python
+
 
 
 <!---
